@@ -1,0 +1,35 @@
+[
+  {
+    "imageName": "portfolio1.jpg",
+    "title": "Sets: basic properties and operations on them, Venn diagrams",
+    "url": "https://github.com/Mar4ik10/python_projects/tree/lab1",
+    "id": 1
+  },
+
+  {
+    "imageName": "portfolio2.jpg",
+    "title": "Binary relations and their main properties, operations on relations",
+    "url": "https://github.com/Mar4ik10/python_projects/tree/lab2",
+    "id": 2
+  },
+
+  {
+    "imageName": "portfolio3.jpg",
+    "title": "Graphs. Ways of presenting graphs. Root trees. Finding the shortest paths",
+    "url": "https://github.com/Mar4ik10/python_projects/tree/lab3",
+    "id": 3
+  },
+  {
+    "imageName": "portfolio4.png",
+    "title": "Graph coloring, coloring coloring algorithms",
+    "url": "https://github.com/Mar4ik10/python_projects/tree/lab4",
+    "id": 4
+  },
+
+  {
+    "imageName": "portfolio5.jpg",
+    "title": "Combinatorics: permutations, placement, combinations",
+    "url": "https://github.com/Mar4ik10/python_projects/tree/lab5",
+    "id": 5
+  }
+]
